@@ -1,3 +1,3 @@
-import { hello } from "./second.js";
+import { calculator } from "./second.js";
+import "./styles.css";
 
-console.log(hello);
